@@ -19,6 +19,7 @@ using namespace std;
 #define lli long long int
 
 typedef long long ll;
+
 typedef long double ld;
 typedef unsigned long long ull;
 typedef pair<ll,ll> ii;
